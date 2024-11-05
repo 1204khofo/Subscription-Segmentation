@@ -79,6 +79,9 @@ Group by subscriptiontype;
 
 ![Subscription Segmentation](https://github.com/user-attachments/assets/ffa12765-1e85-47f1-bb52-7eceedf38451)
 
+### Report
+
+
 
 
  
